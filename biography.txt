@@ -1,0 +1,57 @@
+The Impact of AI on Everyday Life
+
+C2:
+Hannah Fry — Hello World: How to Be Human in the Age of the Machine
+Fry discusses how algorithms and AI are increasingly influencing human decisions in areas like transport, justice, health, and more. 
+Wikipedia
+
+Janelle Shane — You Look Like a Thing and I Love You
+This is a popular science book about how AI “thinks,” its limits, quirks, and how it starts to affect real life. 
+Wikipedia
+
+Nick Bostrom — Superintelligence: Paths, Dangers, Strategies
+Though more focused on future risks, it has sections that explore how advanced AI might change many facets of society. 
+Wikipedia
+
+Marvin Minsky — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind
+Minsky’s work helps frame what “intelligence” and “emotion” might mean in machines, tying into how AI might integrate with human life
+
+
+“Smart Cities, Green Futures: How Artificial Intelligence is Powering Urban Sustainability” — EarthDay
+Talks about how many cities use AI to improve infrastructure, resource usage, and environment. 
+Earth Day
+
+“AI in Smart Cities: The benefits and challenges” — Gemmo.ai
+Gives a good summary of benefits and challenges of deploying AI in urban settings. 
+Gemmo AI
+
+“AI-powered smart cities: Navigating challenges and opportunities” — Thales / Dis-Blog
+Explores both the advantages and the planning needs / risks. 
+dis-blog.thalesgroup.com
+
+“AI in Cities — Smart Cities | Axelera AI”
+Specifically focuses on traffic management and how AI optimises movement in cities. 
+Axelera AI
+
+“AI-powered cities of the future” — Deloitte Global
+Describes how AI can revolutionize resource and infrastructure management in cities. 
+Deloitte United Kingdom
+
+“Artificial Intelligence in Smart Cities—Applications, Barriers, and Challenges” — MDPI (Open access)
+A good scholarly article that outlines many use cases, plus challenges, in smart cities. 
+MDPI
+
+“From Data to Action: Exploring AI and IoT-driven Solutions for Smarter Cities” — arXiv
+A technical paper that discusses how AI + IoT systems can be used in traffic management, energy, maintenance, etc. 
+arXiv
+
+“Algorithmic decision-making in AVs: Understanding ethical and technical concerns for smart cities” — arXiv
+Focuses on autonomous vehicles, their algorithms, benefits, and also risks as part of urban smart systems. 
+arXiv
+
+“State of the Art Survey of Deep Learning and Machine Learning Models for Smart Cities and Urban Sustainability” — arXiv
+Explores how machine learning / deep learning methods are used in domains like transport, energy, health in cities. 
+arXiv
+
+Dell Whitepaper — Artificial Intelligence and Gen AI in Smart Cities
+A practical whitepaper about how cities can integrate AI and generative AI to manage services.

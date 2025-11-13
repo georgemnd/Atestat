@@ -55,3 +55,24 @@ arXiv
 
 Dell Whitepaper — Artificial Intelligence and Gen AI in Smart Cities
 A practical whitepaper about how cities can integrate AI and generative AI to manage services.
+
+
+C3:
+Bostrom, Nick. Superintelligence: Paths, Dangers, Strategies. Oxford University Press, 2014.
+
+Tegmark, Max. Life 3.0: Being Human in the Age of Artificial Intelligence. Penguin, 2017.
+
+Crawford, Kate. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press, 2021.
+
+O’Neil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Crown, 2016.
+
+Websites:
+European Parliament Research Service. Ethical Aspects of Artificial Intelligence in the EU. 2020. europarl.europa.eu
+
+Oxford Internet Institute. AI, Privacy, and Ethics. University of Oxford, 2022. oii.ox.ac.uk
+
+The Guardian. AI Will Take Jobs — and Create Inequality. 2023. theguardian.com
+
+Nature. The Carbon Footprint of Machine Learning. 2022. nature.com
+
+BBC Future. The Hidden Environmental Cost of AI. 2021. bbc.com/future
